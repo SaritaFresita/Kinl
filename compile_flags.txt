@@ -1,0 +1,8 @@
+-Wno-unused-function
+-Wno-unused-label
+-Wno-cpp
+-Wno-unused-parameter
+-nostdlib
+-nodefaultlibs
+-Wall
+-I.
